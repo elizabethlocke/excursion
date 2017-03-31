@@ -8,7 +8,7 @@ h1 {
 	color: white;
 	text-align: center;
 }
-#link {
+.link {
 	color: aquamarine;
 	font-size: 16px
 	text-align: center;
@@ -24,7 +24,7 @@ h3 {
 	color: gray;
 	text-align: center;
 }
-h3.copyright {
+h3 {
 	text-align: right;
 	color: gray;
 }
